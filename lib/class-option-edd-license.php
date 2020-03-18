@@ -367,12 +367,12 @@ if ( class_exists( 'TitanFrameworkOption' ) ) {
 
 				/* Set the update messages. */
 				$strings = array(
-					'theme-license'             => __( 'Theme License', 'edd-theme-updater' ),
+					'theme-license'             => __( 'Theme license', 'edd-theme-updater' ),
 					'enter-key'                 => __( 'Enter your theme license key.', 'edd-theme-updater' ),
-					'license-key'               => __( 'License Key', 'edd-theme-updater' ),
-					'license-action'            => __( 'License Action', 'edd-theme-updater' ),
-					'deactivate-license'        => __( 'Deactivate License', 'edd-theme-updater' ),
-					'activate-license'          => __( 'Activate License', 'edd-theme-updater' ),
+					'license-key'               => __( 'License key', 'edd-theme-updater' ),
+					'license-action'            => __( 'License action', 'edd-theme-updater' ),
+					'deactivate-license'        => __( 'Deactivate license', 'edd-theme-updater' ),
+					'activate-license'          => __( 'Activate license', 'edd-theme-updater' ),
 					'status-unknown'            => __( 'License status is unknown.', 'edd-theme-updater' ),
 					'renew'                     => __( 'Renew?', 'edd-theme-updater' ),
 					'unlimited'                 => __( 'unlimited', 'edd-theme-updater' ),

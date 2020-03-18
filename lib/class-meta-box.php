@@ -33,7 +33,7 @@ class TitanFrameworkMetaBox {
 		$this->settings = array_merge( $this->defaultSettings, $settings );
 		// $this->options = $options;
 		if ( empty( $this->settings['name'] ) ) {
-			$this->settings['name'] = __( 'More Options', TF_I18NDOMAIN );
+			$this->settings['name'] = __( 'More options', TF_I18NDOMAIN );
 		}
 
 		if ( empty( $this->settings['id'] ) ) {

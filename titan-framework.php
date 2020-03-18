@@ -171,11 +171,11 @@ class TitanFrameworkPlugin {
 			);
 			$plugin_meta[] = sprintf( "<a href='%s' target='_blank'>%s</a>",
 				'https://github.com/gambitph/Titan-Framework',
-				__( 'GitHub Repo', TF_I18NDOMAIN )
+				__( 'GitHub repo', TF_I18NDOMAIN )
 			);
 			$plugin_meta[] = sprintf( "<a href='%s' target='_blank'>%s</a>",
 				'https://github.com/gambitph/Titan-Framework/issues',
-				__( 'Issue Tracker', TF_I18NDOMAIN )
+				__( 'Issue tracker', TF_I18NDOMAIN )
 			);
 		}
 		return $plugin_meta;
